@@ -1,4 +1,4 @@
-var nome = "Rodrigo Storti de Oliveira";
+//var nome = "Rodrigo Storti de Oliveira";
 //var idade = 32;
 //var idade2 = 50;
 //var frase = "Tricolor é Lider";
@@ -92,6 +92,7 @@ for (count = 0; count <=5; count ++)
 }
 */
 
+/*
 var d = new Date();
 
 alert(d);
@@ -99,3 +100,18 @@ alert(d.getMonth() + 1);
 alert(d.getDay());
 
 
+*/
+/*
+function soma(n1,n2)
+{
+    return n1 + n2;
+};
+
+alert(soma(5,12));
+
+*/
+
+function validaIdade(idade)
+{
+    
+}
